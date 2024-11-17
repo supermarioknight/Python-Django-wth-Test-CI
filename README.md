@@ -111,6 +111,11 @@ python manage.py test
 
 ## API Endpoints
 
+### Admin URL
+```
+http://localhost:8000/admin/
+```
+
 ### Base URL
 ```
 http://localhost:8000/api/
